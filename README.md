@@ -4,8 +4,6 @@ My name is Julian Rosero, a game developer and student at the UPB in Medellin, C
 
 I’m currently learning game development using Unreal Engine along with C++.
 
-### Skills
-
 ### Languages (in order of experience)
 C#, C++, Python.
 
