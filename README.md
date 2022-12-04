@@ -15,5 +15,7 @@ Unity, Unreal Engine, Blender.
 ## Socials
 
 Discord: Julian Rosero#7219.
+
 Twitter (I don't use it much though): @JulianRoser0.
+
 LinkedIn: https://www.linkedin.com/in/julian-rosero-94b00b1b5/
