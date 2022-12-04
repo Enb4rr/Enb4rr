@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Enb4rr/Enb4rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Julian Rosero, a game developer and student at the UPB in Medellin, Colombia. I am currently finishing my last semester at university.
 
-Here are some ideas to get you started:
+I’m currently learning game development using Unreal Engine along with C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+## Languages (in order of experience)
+C#, C++, Python.
+
+## Technologies
+Unity, Unreal Engine, Blender.
+
+## Socials
+
+Discord: Julian Rosero#7219
+Twitter (I don't use it much though): @JulianRoser0
+LinkedIn: https://www.linkedin.com/in/julian-rosero-94b00b1b5/
