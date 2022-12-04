@@ -6,13 +6,13 @@ I’m currently learning game development using Unreal Engine along with C++.
 
 ### Skills
 
-## Languages (in order of experience)
+### Languages (in order of experience)
 C#, C++, Python.
 
-## Technologies
+### Technologies
 Unity, Unreal Engine, Blender.
 
-## Socials
+### Socials
 
 Discord: Julian Rosero#7219
 
