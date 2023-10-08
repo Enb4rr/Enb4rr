@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Julian Rosero, a game developer and student at the UPB in Medellin, Colombia. I am currently finishing my last semester at university.
+My name is Julian Rosero, I am a game developer.
 
 I’m currently learning game development using Unreal Engine along with C++.
 
