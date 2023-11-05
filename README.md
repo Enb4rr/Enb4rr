@@ -5,7 +5,7 @@ My name is Julian Rosero, I am a game developer.
 I’m currently learning game development using Unreal Engine along with C++.
 
 ### Languages (in order of experience)
-C#, C++, Python.
+C#, C++, Verse, Lua, Python.
 
 ### Technologies
 Unity, Unreal Engine, Blender.
