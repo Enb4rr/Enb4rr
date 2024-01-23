@@ -14,7 +14,7 @@ C# (Mid - High level), C++ (Mid level), Verse (Mid level), Lua (Junior level), P
 ### Technologies
 Unity (Mid level), Unreal Engine (Junior level), Unreal Editor for Fortnite (Junior level), Visual Studio, Visual Studio Code, Photoshop (Basic level), Blender (Basic level).
 
-### Socials
+### Socials :link:
 
 Discord: Julian Rosero#7219
 
