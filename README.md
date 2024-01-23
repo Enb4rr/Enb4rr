@@ -8,12 +8,10 @@ I’m currently learning game development using Unreal Engine along with C++.
 C#, C++, Verse, Lua, Python.
 
 ### Technologies
-Unity, Unreal Engine, Blender.
+Unity, Unreal Engine, Unreal Editor for Fortnite, Visual Studio, Visual Studio Code, Photoshop (Basic level), Blender (Basic level).
 
 ### Socials
 
 Discord: Julian Rosero#7219
-
-Twitter (I don't use it much though): @JulianRoser0
 
 LinkedIn: https://www.linkedin.com/in/julian-rosero-94b00b1b5/
