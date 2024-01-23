@@ -16,7 +16,7 @@ Unity (Mid level), Unreal Engine (Junior level), Unreal Editor for Fortnite (Jun
 
 ### Socials :link:
 
-Discord: Julian Rosero#7219
+Discord: enb4rr
 
 LinkedIn: www.linkedin.com/in/julian-rosero-94b00b1b5
 
