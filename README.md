@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is Julian Rosero Narvaez, I'm a passionate Game Developer and Programmer from Colombia.
+Hi! My name is Julian Rosero Narvaez, I'm a passionate Game Developer and Programmer from Colombia 🇨🇴.
 I have experience and skills in: Game Development, Game Programming, Version Control, Git and Teams Management.
 
 If you are interested in my work, please feel free to watch the video below to see some of the video games I have participated in as a developer.
