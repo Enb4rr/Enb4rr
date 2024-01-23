@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-My name is Julian Rosero, I am a game developer.
+Hi! My name is Julian Rosero Narvaez, I'm a passionate Game Developer and Programmer from Colombia.
+I have experience and skills in: Game Development, Game Programming, Version Control, Git and Teams Management.
 
-I’m currently learning game development using Unreal Engine along with C++.
+If you are interested in my work, please feel free to watch the video below to see some of the video games I have participated in as a developer.
 
 ### Languages (in order of experience)
-C#, C++, Verse, Lua, Python.
+C# (Mid - High level), C++ (Mid level), Verse (Mid level), Lua (Junior level), Python (Junior level).
 
 ### Technologies
-Unity, Unreal Engine, Unreal Editor for Fortnite, Visual Studio, Visual Studio Code, Photoshop (Basic level), Blender (Basic level).
+Unity (Mid level), Unreal Engine (Junior level), Unreal Editor for Fortnite (Junior level), Visual Studio, Visual Studio Code, Photoshop (Basic level), Blender (Basic level).
 
 ### Socials
 
