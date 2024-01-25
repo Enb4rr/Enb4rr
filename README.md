@@ -3,10 +3,7 @@
 Hi! My name is Julian, I'm a passionate Game Developer and Programmer from Colombia 🇨🇴.
 I have experience and skills in: Game Development :computer:, Game Programming :wrench:, Version Control :blue_book:, Git and Teams Management :date:.
 
-### If you are interested in my work, please feel free to watch the video below to see some of the projects I have participated in as a developer.
-
-
-### You can also check out my pinned public repositories below to view my code!
+### If you are interested in my work, please feel free to watch my pinned repositories below to see some of the projects I have participated in as a developer.
 
 ### Languages (in order of experience) :moyai:
 C# (Mid - High level), C++ (Mid level), Verse (Mid level), Lua (Junior level), Python (Junior level).
