@@ -9,7 +9,7 @@ I have experience and skills in: Game Development :computer:, Game Programming :
 C# (Mid - High level), C++ (Mid level), Verse (Mid level), Lua (Junior level), Python (Junior level).
 
 ### Technologies :game_die:
-Unity (Mid level), Unreal Engine (Junior level), Unreal Editor for Fortnite (Junior level), Visual Studio, Visual Studio Code, Photoshop (Basic level), Blender (Basic level).
+Unity (Mid level), Unreal Engine (Mid level), Unreal Editor for Fortnite (Junior level), Visual Studio, Visual Studio Code, Photoshop (Basic level), Blender (Basic level).
 
 ### Socials :link:
 
