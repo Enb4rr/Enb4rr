@@ -6,7 +6,7 @@ I have experience and skills in: Game Development :computer:, Game Programming :
 ### If you are interested in my work, please feel free to watch my latest showreel and my pinned repositories below to see some of the projects I have participated in as a developer.
 
 ### Showreel
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=__PRb9FQeBs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/__PRb9FQeBs.jpg)](https://www.youtube.com/watch?v=__PRb9FQeBs)
 
 ### Languages (in order of experience) :moyai:
 C# (Mid - High level), C++ (Mid level), Verse (Mid level), Lua (Junior level), Python (Junior level).
