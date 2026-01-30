@@ -5,8 +5,7 @@ I have experience and skills in: Game Development :computer:, Game Programming :
 
 ### If you are interested in my work, please feel free to watch my latest showreel and my pinned repositories below to see some of the projects I have participated in as a developer.
 
-### Showreel
-https://www.youtube.com/watch?v=__PRb9FQeBs
+### [Showreel](https://www.youtube.com/watch?v=__PRb9FQeBs)
 
 ### Languages (in order of experience) :moyai:
 C# (Mid - High level), C++ (Mid level), Verse (Mid level), Lua (Junior level), Python (Junior level).
@@ -18,6 +17,6 @@ Unity (Mid level), Unreal Engine (Mid level), Unreal Editor for Fortnite (Junior
 
 Discord: enb4rr
 
-LinkedIn: www.linkedin.com/in/julian-rosero-94b00b1b5
+[LinkedIn](www.linkedin.com/in/julian-rosero-94b00b1b5)
 
-UpWork: https://www.upwork.com/freelancers/~01fbbd70509bb854ef?viewMode=1
+[UpWork](https://www.upwork.com/freelancers/~01fbbd70509bb854ef?viewMode=1)
