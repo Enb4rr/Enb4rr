@@ -1,43 +1,11 @@
-# Hi there 👋
+# Hi, I'm Julian
 
-Hi! My name is Julian, I'm a passionate Software Developer and Programmer from Colombia 🇨🇴.
+Game Programmer and Software Developer based in Vancouver, BC.
 
-I have experience and skills in:
-- Game Development
-- Game Programming
-- Version Control
-- Web/Mobile Development
-- Git and Teams Management
-- SCRUM
+I specialize in UI systems, gameplay programming, and technical art, with 3+ years shipping titles across Unity, Unreal Engine, and UEFN. Recently contributed to *Raptor Heist*, a Fortnite island that peaked at 5600 concurrent players, and developed *Nutriaventuras*, a mobile game commissioned for a government educational program in Peru.
 
----
+I also build web and mobile applications using React, React Native, Firebase, and Python.
 
-### Languages
+Check out my latest showreel and feel free to explore my pinned repositories below.
 
-- C# (Mid)
-- C++ (Mid)
-- Verse (Mid)
-- JavaScript/TypeScript (Junior)
-- Python (Junior)
-
----
-
-### Technologies
-
-- Unity (Mid)
-- Unreal Engine (Mid)
-- Unreal Editor for Fortnite (Mid)
-- React (Junior)
-- React Native (Junior)
-
----
-
-If you are interested in my work, please feel free to watch my latest showreel and my pinned repositories below to see some of the projects I have participated in as a developer.
-
-[Showreel](https://www.youtube.com/watch?v=__PRb9FQeBs)
-
----
-
-### Socials
-
-[LinkedIn](www.linkedin.com/in/julian-rosero-94b00b1b5)
+[Showreel](https://www.youtube.com/watch?v=__PRb9FQeBs) | [LinkedIn](http://www.linkedin.com/in/julian-rosero-94b00b1b5)
