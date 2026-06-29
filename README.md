@@ -8,4 +8,4 @@ I also build web and mobile applications using React, React Native, Firebase, an
 
 Check out my latest showreel and feel free to explore my pinned repositories below.
 
-[Portfolio]([https://www.youtube.com/watch?v=__PRb9FQeBs](https://enb4rr.github.io/portfolio/)) | [LinkedIn](http://www.linkedin.com/in/julian-rosero-94b00b1b5)
+[Portfolio](https://enb4rr.github.io/portfolio/) | [LinkedIn](http://www.linkedin.com/in/julian-rosero-94b00b1b5)
