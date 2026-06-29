@@ -6,6 +6,6 @@ I specialize in UI systems, gameplay programming, and technical art, with 3+ yea
 
 I also build web and mobile applications using React, React Native, Firebase, and Python.
 
-Check out my latest showreel and feel free to explore my pinned repositories below.
+Check out my latest portfolio and feel free to explore my repositories.
 
 [Portfolio](https://enb4rr.github.io/portfolio/) | [LinkedIn](http://www.linkedin.com/in/julian-rosero-94b00b1b5)
