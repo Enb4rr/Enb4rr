@@ -54,15 +54,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | What it is | Built with |
-|---|---|---|
-| **Raptor Heist** | Fortnite island, 5.6k peak CCU | UEFN, Verse |
-| **Nutriaventuras** | Educational mobile game for a Peruvian government program | Unity, C# |
-
----
-
 ### Currently
 
 - Working as a UEFN Game Developer at Pandvil Games
