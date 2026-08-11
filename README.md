@@ -57,7 +57,7 @@
 ### Currently
 
 - Working as a UEFN Game Developer at Pandvil Games
-- Specializing in Backend Develoment
+- Specializing in Backend Develoment & UI Programming in UE
 
 ---
 
